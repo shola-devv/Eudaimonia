@@ -14,7 +14,7 @@
 ### Do think every human has the right to have a 'basically' comfortable life (food, clothing and shelter for starters)?
 #### i think YES, of course!
 
-### EUDAMONIA's goal is to create a system where all humans(connected to this network) receive a regular, unconditional payment from the system, regardless of employment or income status. The goal is to provide financial security, reduce poverty, and simplify welfare systems. Eudamonia's network would support equality and addresses automation’s impact on jobs. 
+### EUDAMONIA's goal is to create a system where all humans(connected to this network) receive a regular, unconditional payment from the system, regardless of employment or income status(using blockchain tech, cryptos and ai). The goal is to provide financial security, reduce poverty, and simplify welfare systems. Eudamonia's network would support equality and addresses automation’s impact on jobs. 
 
 
 
