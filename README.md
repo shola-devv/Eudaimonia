@@ -22,9 +22,13 @@
  
  (A PRO AI RANT)
   A  sentence is gaining popularity amongst humans currently, its the firstson phrase of something i like to refer to as 'AI capitalism' it goes like this: "AI is replacing humans". people say it like that, i for a want of context try to get them to explain themselves but what they mean ends up being what they said... Ai replacing humans in jobs, apocalyptically in relationships(as they expect sometime in the future), in families...The whole thought pattern leads to a comparison in cost effectiveness of training an AI model and raising a human child.
+  
   Firstly, to use the word 'replace' is a crime against humanity. 
+  
   Secondly, I'll take you through something a lot of people seem to blindly ignore.... Humans have put robots(rovers, etc) on mars but have never set foot on the red planet, but no one ever wants to stop there, the whole point of colonizing the solar system is putting humans out there (i am well aware of the 'put ai on spaceships and blast off since light years travel would be impossible for humans' , its nice to understand that that is an ALTERNATIVE proposition to human space travel, a second thought).
+  
   The whole earth made by humans has always been made to serve humans, always been made to augment humans and only when humans take their place in something has that record been set, only then.
+  
   Thirdly, its a catastrophic thing to use the world 'replace' because we live in a world where others would gladly take advantage of a group of people and give them just enough to live because those people still have something to offer. it is in good will to hope that every human continues to have something to offer in our overlly automated future.
   
   AI is the most beautiful thing that has happened to humanity, for humanity. Let us always refer to it that way.
